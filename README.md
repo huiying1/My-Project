@@ -3,7 +3,6 @@ For my project, I will analyze the Malawi dataset "mw2012_preg_20210915.sas7bdat
 This study focuses on estimating the mean trajectory of CRP during the course of pregnancy and characterizing interaction effects on this association.
 
 To analyze the data you will need to install some R packages. The required packages can be installed using R commands.
-install.packages("sas7bdat")
 
 ``` r
 install.packages("sas7bdat")
