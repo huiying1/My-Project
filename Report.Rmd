@@ -10,7 +10,7 @@ output: html_document
 install.packages("sas7bdat")
 library(sas7bdat)
 # Read in the SAS data
-data <- read.sas7bdat("/Users/huiyingyang/Desktop/mw2012_preg_20210915.sas7bdat")
+data <- read.sas7bdat("/Users/huiyingyang/Desktop/mw2012_preg_20210915.sas7bdat")   # Please change to your own path #
 ```
 Conducting an accurate assessment of nutritional deficiencies is essential to complete the planning, implementation and evaluation process of public health interventions. Researchers utilize nutrient biomarkers to evaluate nutrient status. The inflammation affects the accuracy of the evolution and ultimately causes margin of error in the estimation of the prevalence of deficiency in a population. Prior works studied how nutrient biomarkers are impacted by inflammation in children and non-pregnant women. Pregnant women undergone tremendous changes in physiology, hormones and metabolism to adapt the growth of children. This study focuses on estimating the mean trajectory of CRP during the course of pregnancy and characterizing interaction effects on this association.
 
