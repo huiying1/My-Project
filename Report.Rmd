@@ -1,5 +1,5 @@
 ---
-title: "INFO 550 HW 2"
+title: "Report"
 author: "Huiying Yang"
 date: "9/22/2021"
 output: html_document
