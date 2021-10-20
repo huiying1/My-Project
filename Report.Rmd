@@ -82,7 +82,7 @@ We can see that before log transformation, the Q-Q plot also show that the CRP w
 
 ## Log Transformation 
 ```{r}
-datanew$logcrp = log(datanew$crp)
+datanew$logcrp = log(datanew$crp + 0.001)
 m2 = lm (logcrp ~ gagewks, data = datanew)
 summary(m2)
 ```
